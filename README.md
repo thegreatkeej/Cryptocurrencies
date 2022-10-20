@@ -32,7 +32,7 @@ I created a model, fit the model, transformed the fitted model and made predicti
 (K-Means model)
 ![Alt text](https://github.com/thegreatkeej/Cryptocurrencies/blob/main/images/Picture3.png)
 
-## Results
+## Summary
 After which, I used 3-D and scatter plot to visualize the results. The outliers are easy to spot. In the scatter plot, note the class 3 and class 2 bitcoins in the upper right and left corners.
 (3-D of PCA)
 ![Alt text](https://github.com/thegreatkeej/Cryptocurrencies/blob/main/images/Picture4.png)
